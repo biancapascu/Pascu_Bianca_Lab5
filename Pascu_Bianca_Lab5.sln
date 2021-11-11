@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascu_Bianca_Lab5", "Pascu_Bianca_Lab5.csproj", "{81211A5E-4ED1-4EB9-AD10-C81ED9010D73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{8F447F1D-8645-4B1D-813B-257737A4776A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\Pascu_Bianca_Lab5\AutoLotModel\AutoLotModel.csproj", "{8F447F1D-8645-4B1D-813B-257737A4776A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
